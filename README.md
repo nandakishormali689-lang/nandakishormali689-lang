@@ -14,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=nandakishormali689-lang&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nandakishormali689-lang&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can Visit my Portfolio
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nandkishormali.vercel.app) 
 
   
